@@ -1,4 +1,4 @@
-# Practica12-CRUD-Catalogos
+#CRUD_FUNCIONAL_DE_CATALOGOS
 #Creación de interfaces mediante la libreria "PyQt6" usando un base de datos estilo oxxo llamada oxxo_db
 #Nuñez Ramirez Aldo
 #uso:
