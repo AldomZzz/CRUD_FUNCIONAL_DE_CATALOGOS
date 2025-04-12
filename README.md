@@ -6,4 +6,4 @@
 #Cambiar contraseña de ser necesario
 #Cambiar nombre de la base de ser necesario
 #Tener el pip "pip install PyQt6"
-#Aún no existe un main por falta de codigos en tablas y por simplicidad
+
